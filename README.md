@@ -1,5 +1,4 @@
 # 💫 About Me:
-<br>B.Tech CSE (AI & ML) Student | Aspiring Machine Learning Engineer<br><br><br>
 
 ### 🎯 Career Objective
 Aspiring Machine Learning Engineer / Data Analyst seeking opportunities to apply Python, data analysis, and machine learning fundamentals to solve real-world problems while continuously improving technical and analytical skills.<br><br>
